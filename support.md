@@ -13,9 +13,9 @@ Thank you for using StyleAI - Smart Closet. We're here to help.
 If you have questions, feedback, or need assistance, please reach out:
 
 - **Email**: [your-email@example.com]
-- **GitHub Issues**: [https://github.com/MrJStyle/StyleAI/issues](https://github.com/MrJStyle/StyleAI/issues)
+- **Discord**: [your-discord-invite-url]
 
-> **Note to maintainer:** Replace `[your-email@example.com]` with your actual support email before App Store submission.
+> **Note to maintainer:** Replace `[your-email@example.com]` and `[your-discord-invite-url]` with real values before App Store submission.
 
 ## Frequently Asked Questions
 
