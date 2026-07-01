@@ -1,8 +1,7 @@
 ---
 layout: home
+title: StyleAI Legal & Support
 ---
-
-# StyleAI Legal & Support
 
 Welcome to the StyleAI legal and support hub. StyleAI is a smart closet app that helps you organize your wardrobe and get AI-powered outfit recommendations.
 

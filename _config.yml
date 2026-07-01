@@ -2,5 +2,12 @@ title: StyleAI
 description: Legal and support pages for StyleAI - Smart Closet
 theme: minima
 
+# Minima's nav shows every page by default. We only want the two
+# sub-pages (Support, Privacy Policy) — the home page is reachable
+# via the site title in the top-left.
+header_pages:
+  - privacy-policy.md
+  - support.md
+
 # Uncomment and update when custom domain is ready:
 # url: "https://styleai.app"
